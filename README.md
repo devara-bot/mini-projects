@@ -1,11 +1,5 @@
-Simple Alarm
+Mini Projects
 
-simple C++ that can open specified file at specifed time.
+this repository contains all of my mini projects
 
-made this to fullfil 'TETI Lab Skill 2021'
-
-author: @aufarhmn (linktr.ee/aufarhmn)
-
-WARNING
-- only works at the same day
-- CANNOT run with online IDE
+linktr.ee/aufarhmn
